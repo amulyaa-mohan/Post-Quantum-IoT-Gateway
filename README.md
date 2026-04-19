@@ -98,7 +98,6 @@ Provides alerts for anomalies and security events
 - liboqs Documentation  
   https://openquantumsafe.org  
 
-### Research Papers
 - CRYSTALS Kyber Algorithm Specification  
   https://pq-crystals.org/kyber/  
 
@@ -108,17 +107,33 @@ Provides alerts for anomalies and security events
 - Harvest Now Decrypt Later Threat Analysis  
   https://www.mdpi.com  
 
-- Multi-splitting Forking Based Modular Security of Signature Schemes in MQ Setting  
-  https://www.researchgate.net/profile/Sanjit-Chatterjee  
+## Research Papers and Journals
 
-- Revisiting the Security of Salted UOV Signature  
-  https://www.researchgate.net/profile/Sanjit-Chatterjee  
+| Title | Focus | Source | Link |
+|------|------|--------|------|
+| Quantum Cryptography | Foundational theory and experimental validation of quantum cryptographic systems | Reviews of Modern Physics (2001) | https://paperguide.ai/papers/top/research-papers-quantum-cryptography/ |
+| Quantum Key Distribution: New Advances in Security and Practicality | Continuous-variable QKD improvements and practical deployment | ICFO (2024) | https://www.icfo.eu/news/2470/quantum-key-distribution-new-advances-in-security-and-practicality-/ |
+| Quantum Key Distribution Enables Secure Communication via Hybrid and Mobile Channels | Hybrid and mobile QKD communication systems | New Journal of Physics (2025) | https://phys.org/news/2025-11-quantum-key-enables-communication-hybrid.html |
+| Quantum Cryptography for Secure Cloud Data Storage | Hybrid QKD and classical encryption for cloud systems | Journal of Theoretical and Applied Information Technology | https://www.jatit.org/volumes/Vol103No19/25Vol103No19.pdf |
+| Secure Quantum Communication with Multi-Users in Quantum Networks | Multi-user quantum communication and key sharing | IEEE (2025) | https://ieeexplore.ieee.org/iel8/8782661/10829557/10946987.pdf |
+| Quantum Cryptography for Secure Data Transmission in IoT Networks | Application of quantum cryptography in IoT environments | Computer Fraud & Security (2024) | https://computerfraudsecurity.com/index.php/journal/article/view/27 |
+| CRYSTALS Kyber Algorithm Specification | Lattice-based key encapsulation mechanism for post-quantum security | PQ-Crystals | https://pq-crystals.org/kyber/ |
+| CRYSTALS Dilithium Algorithm Specification | Lattice-based digital signature scheme for quantum-resistant authentication | PQ-Crystals | https://pq-crystals.org/dilithium/ |
+| Post-Quantum Cryptography for Internet of Things | Performance and optimization of PQC in IoT systems | arXiv | https://arxiv.org/abs/2401.17538 |
+| Evaluating Post-Quantum Cryptographic Algorithms on Resource-Constrained Devices | Efficiency analysis of PQC algorithms in constrained environments | arXiv | https://arxiv.org/abs/2507.08312 |
+| Post-Quantum Cryptography and Quantum-Safe Security | Comprehensive survey of PQC techniques and applications | arXiv | https://arxiv.org/abs/2510.10436 |
+| Modular Security of Signature Schemes in MQ Setting | Security analysis of multivariate post-quantum signature schemes | Research Publications | https://www.researchgate.net/profile/Sanjit-Chatterjee |
+| Security Analysis of Salted UOV Signatures | Evaluation of multivariate signature schemes in PQC | Research Publications | https://www.researchgate.net/profile/Sanjit-Chatterjee |
+| Identity-Based Signatures in Multivariate Quadratic Setting | Identity-based cryptographic constructions for PQC systems | Research Publications | https://www.researchgate.net/profile/Sanjit-Chatterjee |
 
-- Identity Based Signature in Multivariate Quadratic Setting  
-  https://www.researchgate.net/profile/Sanjit-Chatterjee  
+## Key Journals
 
-- Secure and Efficient Wildcard Search over Encrypted Data  
-  https://www.researchgate.net/profile/Sanjit-Chatterjee  
+| Title | Focus | Source | Link |
+|------|------|--------|------|
+| Journal of Quantum Cryptography | Research on quantum-safe cryptographic systems and protocols | ICCK | https://www.icck.org/jqc |
+| Cryptography | Covers PQC, secure protocols, and quantum-safe systems | MDPI | https://www.mdpi.com/journal/cryptography |
+| Frontiers in Physics | Advances in quantum communication and physics-based cryptography | Frontiers | https://www.frontiersin.org/journals/physics |
+| IEEE Xplore Digital Library | Secure communication, cryptography, and network systems | IEEE | https://ieeexplore.ieee.org |
 
 ### Books and Academic Resources
 
